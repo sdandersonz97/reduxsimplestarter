@@ -1,16 +1,23 @@
-### Template for react and Redux applications
+# ReduxSimpleStarter
 
-## Run app 
+### Getting Started
 
-npm install 
-npm start
+There are two methods for getting started with this repo.
 
-## Packages installed
+#### Familiar with Git?
+Checkout this repo, install dependencies, then start the gulp process with the following:
 
-* redux
-* react-redux
-* react-router-dom
-* lodash
+```
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
+> npm install
+> npm start
+```
 
-## app bostrapped with create-react-app
+#### Not Familiar with Git?
+Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
+```
+> npm install
+> npm start
+```
